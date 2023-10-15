@@ -7,6 +7,7 @@
 - [Полезные статьи](#полезные-статьи)
   - [Установка и настройка BIND9](../master/linux/bind9.md)
   - [Настройка DNS-серверов](../master/linux/dns.md)
+  - [Использование resolvconf для постоянных резолверов в resolv.conf](../master/linux/resolv.conf.md)
 
 ## Как использовать
 
